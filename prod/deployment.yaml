@@ -15,7 +15,7 @@ spec:
       containers:
       - name: production-container
 <<<<<<< HEAD
-        image: europe-west4-docker.pkg.dev/qwiklabs-gcp-01-05bdc8c7ffef/my-repository/sample-app:v2.0
+        image: europe-west4-docker.pkg.dev/qwiklabs-gcp-01-05bdc8c7ffef/my-repository/sample-app:v1.0
 =======
         image: <todo>
 >>>>>>> parent of 310d36e (Initial prod deployment v1.0)
